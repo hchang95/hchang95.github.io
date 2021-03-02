@@ -3,7 +3,7 @@ layout: post
 title:  "Spectral Graph Attention Network"
 date: 2021-03-02 00:00:00 +08:00
 categories: research
-authors: "<b>Heng Chang</b>, Yu Rong, Tingyang Xu, Wenbing Huang, Somayeh Sojoudi, Junzhou Huang, Wenwu Zhu"
+authors: "<strong>Heng Chang</strong>, Yu Rong, Tingyang Xu, Wenbing Huang, Somayeh Sojoudi, Junzhou Huang, Wenwu Zhu"
 venue: "Under review"
 arxiv: https://arxiv.org/pdf/2003.07450
 ---
