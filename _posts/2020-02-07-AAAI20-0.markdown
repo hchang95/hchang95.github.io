@@ -4,7 +4,7 @@ title:  "A Restricted Black-box Adversarial Framework Towards Attacking Graph Em
 date: 2020-02-07 08:30:00 +08:00
 categories: research
 authors: "<strong>Heng Chang</strong>, Yu Rong, Tingyang Xu, Wenbing Huang, Honglei Zhang, Peng Cui, Wenwu Zhu, Junzhou Huang"
-venue: "In proceedings of 34th AAAI Conference on Artificial Intelligence (AAAI)"
+venue: "In proceedings of 34th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)"
 paper: https://ojs.aaai.org/index.php/AAAI/article/view/5741/5597
 code: https://github.com/SwiftieH/GFAttack
 ---

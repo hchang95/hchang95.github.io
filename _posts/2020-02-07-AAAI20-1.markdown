@@ -4,7 +4,7 @@ title:  "Preserving Ordinal Consensus: Towards Feature Selection for Unlabeled D
 date: 2020-02-07 00:00:00 +08:00
 categories: research
 authors: "Jun Guo, <strong>Heng Chang</strong>, Wenwu Zhu"
-venue: "In proceedings of 34th AAAI Conference on Artificial Intelligence (AAAI)"
+venue: "In proceedings of 34th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)"
 paper: https://ojs.aaai.org/index.php/AAAI/article/download/5336/5192
 code: https://github.com/eeGuoJun/AAAI2020
 ---
