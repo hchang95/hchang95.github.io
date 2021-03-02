@@ -3,7 +3,7 @@ layout: post
 title:  "Power up! Robust Graph Convolutional Network via Graph Powering"
 date: 2021-02-02 00:00:00 +08:00
 categories: research
-authors: "Ming Jin\*, <strong>Heng Chang\*</strong>, Wenwu Zhu, Somayeh Sojoudi"
+authors: "Ming Jin*, <strong>Heng Chang*</strong>, Wenwu Zhu, Somayeh Sojoudi"
 venue: "In proceedings of 35th AAAI Conference on Artificial Intelligence (AAAI)"
 paper: https://people.eecs.berkeley.edu/~sojoudi/Robust_GCN.pdf
 ---
