@@ -1,0 +1,10 @@
+---
+layout: post
+date: 2021-03-01 00:00:00 +08:00
+categories: toolkit
+---
+* <a href="https://autogl.readthedocs.io/en/latest/">AutoGL</a>: A toolkit and platform towards automatic machine learning on graphs.  
+<a href="https://github.com/THUMNLab/AutoGL">code</a> / <a href="https://mn.cs.tsinghua.edu.cn/AutoGL/">webpage</a> /
+
+
+
