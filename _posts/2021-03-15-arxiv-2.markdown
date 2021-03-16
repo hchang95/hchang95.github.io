@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "AutoGL: A Library for Automated Graph Learning"
+date: 2021-03-15 00:00:00 +08:00
+categories: research
+authors: "Chaoyu Guan, Ziwei Zhang, Haoyang Li, <strong>Heng Chang</strong>, Zeyang Zhang, Yijian Qin, Jiyan Jiang, Xin Wang, Wenwu Zhu"
+venue: "Under review"
+---
+
