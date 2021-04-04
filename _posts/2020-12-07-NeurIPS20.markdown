@@ -9,3 +9,4 @@ paper: https://papers.nips.cc/paper/2020/file/8b5c8441a8ff8e151b191c53c1842a38-P
 code: https://github.com/SwiftieH/IGNN
 ---
 \* equal contribution
+
