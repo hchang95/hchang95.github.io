@@ -5,7 +5,7 @@ date: 2021-04-03 00:00:00 +08:00
 categories: research
 authors: "Chaoyu Guan, Ziwei Zhang, Haoyang Li, <strong>Heng Chang</strong>, Zeyang Zhang, Yijian Qin, Jiyan Jiang, Xin Wang, Wenwu Zhu"
 venue: "Geometrical and Topological Representation Learning (GTRL) Workshop at the 9th International Conference on Learning Representations (<strong>ICLR</strong>)"
-paper: https://openreview.net/pdf?id=0yHwpLeInDn
+paper: https://openreview.net/forum?id=0yHwpLeInDn
 code: https://github.com/THUMNLab/AutoGL
 ---
 
