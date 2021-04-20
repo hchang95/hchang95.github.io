@@ -4,7 +4,7 @@ date: 2021-03-01 00:00:00 +08:00
 categories: services
 ---
 * **Program Committee member / Reviewer:**  
-**Journals:** IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+**Journals:** IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS)  
 **Conferences:** NeurIPS 2020, AAAI 2021, WWW 2021, AISTATS 2021, CVPR 2021, ICML 2021, KDD 2021, NeurIPS 2021
 
 
