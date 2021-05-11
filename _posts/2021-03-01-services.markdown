@@ -5,7 +5,7 @@ categories: services
 ---
 * **Program Committee Member / Reviewer:**  
 **Journals:** IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), IEEE Transactions on Knowledge Discovery from Data (TKDD)  
-**Conferences:** AAAI 2021(<a href="https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2021/05/AAAI-21-Program-Committee.pdf">top 25% of PC Members</a>), WWW 2021, AISTATS 2021, ICML 2021, NeurIPS 2021
+**Conferences:** AAAI 2021(<a href="https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2021/05/AAAI-21-Program-Committee.pdf">top 25%</a>), WWW 2021, AISTATS 2021, ICML 2021, NeurIPS 2021
 
 
 
