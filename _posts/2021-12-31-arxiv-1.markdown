@@ -4,6 +4,6 @@ title:  "Adversarial Attack Framework on Graph Embedding Models with Limited Kno
 date: 2021-12-31 00:00:00 +08:00
 categories: research
 authors: "<strong>Heng Chang</strong>, Yu Rong, Tingyang Xu, Wenbing Huang, Honglei Zhang, Peng Cui, Xin Wang, Wenwu Zhu, Junzhou Huang"
-venue: "Under review"
+preprint: https://arxiv.org/abs/2105.12419
 ---
 
