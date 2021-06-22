@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Spectral Graph Attention Network with Fast Eigen-approximation"
+date: 2021-06-22 00:00:00 +08:00
+categories: research
+authors: "<strong>Heng Chang</strong>, Yu Rong, Tingyang Xu, Wenbing Huang, Somayeh Sojoudi, Junzhou Huang, Wenwu Zhu"
+venue: "Deep Learning on Graphs: Methods and Applications ([DLG](https://deep-learning-graphs.bitbucket.io/dlg-kdd21/index.html)) Workshop at the 27th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>"
+paper: https://arxiv.org/abs/2003.07450
+---
+
