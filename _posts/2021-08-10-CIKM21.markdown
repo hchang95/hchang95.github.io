@@ -7,6 +7,6 @@ authors: "<strong>Heng Chang</strong>, Yu Rong, Tingyang Xu, Wenbing Huang, Soma
 venue: "In proceedings of 30th ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>)
 paper: https://arxiv.org/abs/2003.07450
 ---
-Previous version on (<a href="https://deep-learning-graphs.bitbucket.io/dlg-kdd21/publications.html">DLG-KDD'21</a>)"
+
 
 
