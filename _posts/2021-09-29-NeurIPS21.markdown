@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Not All Low-Pass Filters are Robust in Graph Convolutional Networks"
+date: 2021-09-29 00:00:00 +08:00
+categories: research
+authors: "<strong>Heng Chang</strong>, Yu Rong, Tingyang Xu, Yatao Bian, Shiji Zhou, Xin Wang, Junzhou Huang and Wenwu Zhu"
+venue: "In proceedings of 35th Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>)"
+---
+
+
