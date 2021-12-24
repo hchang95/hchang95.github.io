@@ -5,7 +5,7 @@ date: 2021-08-10 00:00:00 +08:00
 categories: research
 authors: "<strong>Heng Chang</strong>, Yu Rong, Tingyang Xu, Wenbing Huang, Somayeh Sojoudi, Junzhou Huang, Wenwu Zhu"
 venue: "In proceedings of 30th ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>)"
-paper: https://arxiv.org/abs/2003.07450
+paper: https://dl.acm.org/doi/abs/10.1145/3459637.3482187
 code: https://github.com/SwiftieH/SpGAT
 ---
 Previous version on <a href="https://deep-learning-graphs.bitbucket.io/dlg-kdd21/publications.html">DLG-KDD'21</a>
