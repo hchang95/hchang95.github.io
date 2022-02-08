@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Adversarial Attack Framework on Graph Embedding Models with Limited Knowledge"
-date: 2022-12-31 00:00:00 +08:00
+date: 2022-02-08 00:00:00 +08:00
 categories: research
 authors: "<strong>Heng Chang</strong>, Yu Rong, Tingyang Xu, Wenbing Huang, Honglei Zhang, Peng Cui, Xin Wang, Wenwu Zhu, Junzhou Huang"
-venue: "Under review"
+venue: "IEEE Transactions on Knowledge and Data Engineering (<strong>TKDE</strong>)"
 preprint: https://arxiv.org/abs/2105.12419
+code: https://github.com/SwiftieH/GFAttack
 ---
 
