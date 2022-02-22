@@ -6,6 +6,7 @@ categories: research
 authors: "<strong>Heng Chang</strong>, Yu Rong, Tingyang Xu, Yatao Bian, Shiji Zhou, Xin Wang, Junzhou Huang and Wenwu Zhu"
 venue: "In proceedings of 35th Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>)"
 paper: https://openreview.net/pdf?id=bDdfxLQITtu
+code: https://github.com/SwiftieH/LFR
 ---
 
 
