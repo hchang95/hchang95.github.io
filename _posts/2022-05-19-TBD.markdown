@@ -6,7 +6,7 @@ categories: research
 authors: "<strong>Heng Chang*</strong>, Jun Guo*, Wenwu Zhu"
 venue: "IEEE Transactions on Big Data (<strong>TBD</strong>)"
 paper: 
-code: https://github.com/SwiftieH/UFS2
+<!-- code: https://github.com/SwiftieH/UFS2 -->
 ---
 \* Equal contribution
 
