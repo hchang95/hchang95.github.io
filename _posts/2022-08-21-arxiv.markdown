@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Semi-Supervised Hierarchical Graph Classification"
+date: 2022-08-21 00:00:00 +08:00
+categories: research
+authors: "Jia Li*, Yongfeng Huang*, <strong>Heng Chang</strong>, Yu Rong"
+venue: "Under review"
+<!-- paper:  -->
+<!-- code:  -->
+---
+\* Equal contribution
