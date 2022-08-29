@@ -4,8 +4,8 @@ title:  "Semi-Supervised Hierarchical Graph Classification"
 date: 2022-08-21 00:00:00 +08:00
 categories: research
 authors: "Jia Li*, Yongfeng Huang*, <strong>Heng Chang</strong>, Yu Rong"
-venue: "Under review"
-<!-- paper:  -->
+venue: "IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>)"
+paper: https://arxiv.org/abs/2206.05416
 <!-- code:  -->
 ---
 \* Equal contribution
