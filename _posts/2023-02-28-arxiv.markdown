@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Revisiting Adversarial Attacks on Graph Neural Networks for Graph Classification"
-date: 2023-08-22 00:00:00 +08:00
+date: 2023-02-28 00:00:00 +08:00
 categories: research
 authors: "Beini Xie, <strong>Heng Chang</strong>, Xin Wang, Tian Bian, Shiji Zhou, Daixin Wang, Zhiqiang Zhang, Wenwu Zhu"
 venue: "Under review"
