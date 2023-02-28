@@ -7,4 +7,4 @@ authors: "Lianzhe Wang, Shiji Zhou, Shanghang Zhang, Xu Chu, <strong>Heng Chang<
 venue: "In proceedings of  IEEE / CVF Computer Vision and Pattern Recognition Conference (<strong>CVPR</strong>)"
 <!-- paper:  -->
 ---
-\* Equal contribution
+
