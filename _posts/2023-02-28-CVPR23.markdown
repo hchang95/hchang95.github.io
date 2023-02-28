@@ -3,7 +3,7 @@ layout: post
 title:  "Adversarially Robust Neural Architecture Search for Graph Neural Networks"
 date: 2023-02-28 00:00:00 +08:00
 categories: research
-authors: "Beini Xie*, <strong>Heng Chang*</strong>, Ziwei Zhang, Xin Wang, Daixin Wang, Zhiqiang Zhang, Zhitao Ying, Wenwu Zhu"
+authors: "Beini Xie*, <strong>Heng Chang*</strong>, Ziwei Zhang, Xin Wang, Daixin Wang, Zhiqiang Zhang, Rex Ying, Wenwu Zhu"
 venue: "In proceedings of  IEEE / CVF Computer Vision and Pattern Recognition Conference (<strong>CVPR</strong>)"
 <!-- paper:  -->
 ---
