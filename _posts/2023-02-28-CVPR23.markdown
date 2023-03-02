@@ -6,5 +6,5 @@ categories: research
 authors: "Beini Xie*, <strong>Heng Chang*</strong>, Ziwei Zhang, Xin Wang, Daixin Wang, Zhiqiang Zhang, Rex Ying, Wenwu Zhu"
 venue: "In proceedings of  IEEE / CVF Computer Vision and Pattern Recognition Conference (<strong>CVPR</strong>)"
 <!-- paper:  -->
----
 \* Equal contribution
+---
