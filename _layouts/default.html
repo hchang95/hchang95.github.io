@@ -107,9 +107,10 @@
               <h3>{{post.title}}</h3>
               <br>
               {{post.authors}}
-
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
+              <br>
+              {{post.equal}}
               <br>
               {% if post.paper %}
               <a href="{{post.paper}}">paper</a> /
