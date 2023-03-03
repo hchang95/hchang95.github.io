@@ -5,8 +5,7 @@ date: 2022-05-19 00:00:00 +08:00
 categories: research
 authors: "<strong>Heng Chang*</strong>, Jun Guo*, Wenwu Zhu"
 venue: "IEEE Transactions on Big Data (<strong>TBD</strong>)"
-<!-- note: "* Equal contribution"  -->
 paper: https://ieeexplore.ieee.org/iel7/6687317/7153538/09784919.pdf 
 code: https://github.com/SwiftieH/UFS2
 ---
-
+<!-- note: "* Equal contribution"  -->
