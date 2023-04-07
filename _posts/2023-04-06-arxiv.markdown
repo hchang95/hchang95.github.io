@@ -8,5 +8,5 @@ venue: "Under review"
 note: "* Equal contribution" 
 paper: http://arxiv.org/abs/2304.02419 
 code: https://github.com/Garfield-kh/TM2D
-webpage: https://garfield-kh.github.io/TM2D/
+webpage: https://garfield-kh.github.io/TM2D
 ---
