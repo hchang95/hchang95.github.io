@@ -104,8 +104,10 @@
           {% for cat in post.categories %}
           {% if cat == 'research' %}
           {% assign count = count | plus: 1 %}
+          {% endif %}
           {% endfor %}
           {% endfor %}
+          
           {% for post in site.posts %}
           {% for cat in post.categories %}
           {% if cat == 'research' %}
