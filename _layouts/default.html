@@ -99,14 +99,16 @@
         </table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
 
-<!--           {% assign count = site.posts.length %} -->
-          {% assign count = length(site.posts) %}
+          {% assign count = 0 %}
+          {% for post in site.posts %}
+          {% assign count = count | plus: 1 %}
+          {% endfor %}
           {% for post in site.posts %}
           {% for cat in post.categories %}
           {% if cat == 'research' %}
           <tr>
             <td style="padding:1%;width:75%;vertical-align:middle">
-              <h3>[{{length(site.posts)}}]</h3> <h3>{{post.title}}</h3>
+              <h3>[{{count}}]</h3> <h3>{{post.title}}</h3>
               <br>
               {{post.authors}}
               <br>
