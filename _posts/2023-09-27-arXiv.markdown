@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models"
+date: 2023-09-27 8:30:00 +08:00
+categories: research
+authors: "Yuhui Xu, Lingxi Xie, Xiaotao Gu, Xin Chen, <strong>Heng Chang</strong>, Hengheng Zhang, Zhensu Chen, Xiaopeng Zhang, Qi Tian"
+venue: "Under Review"
+paper: https://arxiv.org/abs/2309.14717
+---
