@@ -147,6 +147,9 @@
               {% if post.webpage %}
               <a href="{{post.webpage}}">webpage</a> /
               {% endif %}
+              {% if post.huggingface %}
+              <a href="{{post.webpage}}">huggingface</a> /
+              {% endif %}
               <p></p>
               {{ post.excerpt }}
             </td>
