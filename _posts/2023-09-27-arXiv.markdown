@@ -6,4 +6,6 @@ categories: research
 authors: "Yuhui Xu, Lingxi Xie, Xiaotao Gu, Xin Chen, <strong>Heng Chang</strong>, Hengheng Zhang, Zhensu Chen, Xiaopeng Zhang, Qi Tian"
 venue: "Under Review"
 paper: https://arxiv.org/abs/2309.14717
+code: https://github.com/yuhuixu1993/qa-lora
+huggingface: https://huggingface.co/papers/2309.14717
 ---
