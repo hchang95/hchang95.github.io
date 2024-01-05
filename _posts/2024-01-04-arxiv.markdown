@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Path-based Explanation for Knowledge Graph Completion"
+date: 2024-01-04 00:00:00 +08:00
+categories: research
+authors: "<strong>Heng Chang*</strong>, Jiangnan Ye*, Alejo Lopez Avila, Jinhua Du, Jia Li"
+venue: "Under Review"
+note: "* Equal contribution" 
+preprint: https://arxiv.org/abs/2401.02290
+---
