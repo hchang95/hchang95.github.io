@@ -4,7 +4,7 @@ title:  "QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Model
 date: 2024-01-01 8:30:00 +08:00
 categories: research
 authors: "Yuhui Xu, Lingxi Xie, Xiaotao Gu, Xin Chen, <strong>Heng Chang</strong>, Hengheng Zhang, Zhensu Chen, Xiaopeng Zhang, Qi Tian"
-venue: "In proceedings of 12th International Conference on Learning Representations <strong>ICLR</strong>"
+venue: "In proceedings of 12th International Conference on Learning Representations (<strong>ICLR</strong>)"
 preprint: https://arxiv.org/abs/2309.14717
 code: https://github.com/yuhuixu1993/qa-lora
 huggingface: https://huggingface.co/papers/2309.14717
