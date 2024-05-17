@@ -6,5 +6,5 @@ categories: research
 authors: "<strong>Heng Chang*</strong>, Jiangnan Ye*, Alejo Lopez Avila, Jinhua Du, Jia Li"
 venue: "In proceedings of The 2024 ACM KDD Conference (<strong>KDD</strong>)"
 note: "* Equal contribution"
-preprint: https://arxiv.org/abs/2401.02290
+paper: https://arxiv.org/abs/2401.02290
 ---
