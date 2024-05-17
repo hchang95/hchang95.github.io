@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hierarchical Graph Latent Diffusion Model for Molecule Generation"
-date: 2024-01-03 00:00:00 +08:00
+date: 2024-05-01 00:00:00 +08:00
 categories: research
 authors: "Tian Bian, Yifan Niu, <strong>Heng Chang</strong>, Divin Yan, Tingyang Xu, Yu Rong, Jia Li, Hong Cheng"
 venue: "Under Review"
