@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Lightweight Graph Neural Network Search with Graph Sparsification"
-date: 2024-01-02 00:00:00 +08:00
-categories: research
-authors: "Beini Xie, <strong>Heng Chang</strong>, Ziwei Zhang, Zeyang Zhang, Simin Wu, Xin Wang, Yuan Meng, Wenwu Zhu"
-venue: "Under Review"
-preprint: https://openreview.net/pdf?id=IefMMX12yk
----

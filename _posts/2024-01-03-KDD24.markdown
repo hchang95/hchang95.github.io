@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Lightweight Graph Neural Network Search with Graph Sparsification"
+date: 2024-01-03 00:00:00 +08:00
+categories: research
+authors: "Beini Xie*, <strong>Heng Chang* </strong>, Ziwei Zhang, Zeyang Zhang, Simin Wu, Xin Wang, Yuan Meng, Wenwu Zhu"
+venue: "In proceedings of The 2024 ACM KDD Conference (<strong>KDD</strong>)"
+note: "* Equal contribution" 
+preprint: https://openreview.net/pdf?id=IefMMX12yk
+---
