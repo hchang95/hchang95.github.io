@@ -5,5 +5,6 @@ date: 2024-06-01 00:00:00 +08:00
 categories: research
 authors: "Chengyuan Deng*, Yiqun Duan*, Xin Jin*, <strong>Heng Chang*</strong>, et al."
 venue: "Under Review"
+note: "* Equal contribution"
 preprint: https://arxiv.org/abs/2406.05392
 ---
