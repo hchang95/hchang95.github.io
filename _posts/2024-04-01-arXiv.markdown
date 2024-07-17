@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "AutoGL: A Library for Automated Graph Learning"
-date: 2024-01-04 6:00:00 +08:00
+date: 2024-04-01 6:00:00 +08:00
 categories: research
 authors: "Ziwei Zhang, Yijian Qin, Zeyang Zhang, Chaoyu Guan, Jie Cai, <strong>Heng Chang</strong>, Jiyan Jiang, Haoyang Li, Zixin Sun, Beini Xie, Yang Yao, Yipeng Zhang, Xin Wang, Wenwu Zhu"
 venue: "Under Review"
