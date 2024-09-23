@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Triad: A Framework Leveraging a Multi-Role LLM-based Agent to Solve Knowledge Base Question Answering"
+date: 2024-03-03 00:00:00 +08:00
+categories: research
+authors: "Chang Zong, Yuchen Yan, Weiming Lu, Jian Shao, Yongfeng Huang, <strong>Heng Chang</strong>, Yueting Zhuang"
+venue: "In proceedings of The 2024 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>)"
+paper: https://openreview.net/pdf?id=cFHfla6OYq
+---
