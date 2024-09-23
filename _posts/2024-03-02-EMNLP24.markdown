@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Reusing Transferable Weight Increments for Low-resource Style Generation"
+date: 2024-03-02 00:00:00 +08:00
+categories: research
+authors: "Chunzhen Jin, Eliot Huang, <strong>Heng Chang</strong>, Yaqi Wang, Peng Cao, Osmar Zaiane"
+venue: "In proceedings of The 2024 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>)"
+paper: https://openreview.net/pdf/080ee9b9f1cd34cc54b2aa8bcb80c8027dd8466a.pdf
+---
