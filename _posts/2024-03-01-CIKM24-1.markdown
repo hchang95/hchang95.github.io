@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hyperbolic Knowledge Transfer in Cross-Domain Recommendation System"
+date: 2024-03-01 08:00:00 +08:00
+categories: research
+authors: "Xin Yang, <strong>Heng Chang</strong>, Zhijian La, Jinze Yang, Xingrun Li, Yu Lu, Shuaiqiang Wang, Dawei Yin, Erxue Min"
+venue: "In proceedings of 33rd ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>)"
+preprint: https://arxiv.org/pdf/2406.17289
+---
