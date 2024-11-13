@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Generative learning assisted State-of-health Estimation for Sustainable Battery Recycling with Random Retirement Conditions"
+date: 2024-03-22 00:00:00 +08:00
+categories: research
+authors: "Shengyu Tao, Ruifei Ma, Zixi Zhao, Guangyuan Ma, Lin Su, <strong>Heng Chang</strong>, et al."
+venue: "<strong>Nature Communications</strong>"
+paper: https://hchang95.github.io/
+---
