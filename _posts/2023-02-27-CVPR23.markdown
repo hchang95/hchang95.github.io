@@ -2,7 +2,7 @@
 layout: post
 title:  "Improving Generalization of Meta Learning with Inverted Regularization at Inner-level"
 date: 2023-02-27 08:00:00 +08:00
-categories: research
+categories: hidden
 authors: "Lianzhe Wang, Shiji Zhou, Shanghang Zhang, Xu Chu, <strong>Heng Chang</strong>, Wenwu Zhu"
 venue: "In proceedings of  IEEE / CVF Computer Vision and Pattern Recognition Conference (<strong>CVPR</strong>)"
 paper: https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Improving_Generalization_of_Meta-Learning_With_Inverted_Regularization_at_Inner-Level_CVPR_2023_paper.pdf 
