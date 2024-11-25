@@ -5,5 +5,5 @@ date: 2025-01-01 00:00:00 +01:00
 categories: research
 authors: "Botao Wang, Jia Li, <strong>Heng Chang</strong>, Keli Zhang, Fugee Tsung"
 venue: "In proceedings of The 18th ACM International Conference on Web Search and Data Mining (<strong>WSDM</strong>)"
-paper: https://hchang95.github.io/
+paper: https://arxiv.org/pdf/2411.13821
 ---
