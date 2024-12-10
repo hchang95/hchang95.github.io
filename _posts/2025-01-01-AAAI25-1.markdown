@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ReMask-Animate: Refined Character Image Animation Using Mask-Guided Adapters"
-date: 2025-01-01 00:30:00 +01:00
+date: 2025-01-01 00:30:00 +00:00
 categories: research
 authors: "Xunzhi Xiang, Zonghong Dai, Haiwei Xue, Di Wang, Minglei Li, Ye Yue, Fei Ma, Weijiang Yu, <strong>Heng Chang</strong>, Fei Richard Yu"
 venue: "In proceedings of 39th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)"
