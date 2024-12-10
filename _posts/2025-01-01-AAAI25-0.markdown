@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "PointTalk: Audio-Driven Dynamic Lip Point Cloud for 3D Gaussian-based Talking Head Synthesis"
+date: 2025-01-01 01:00:00 +01:00
+categories: research
+authors: "Yifan Xie, Tao Feng, Xin Zhang, Xiangyang Luo, Zixuan Guo, Weijiang Yu, <strong>Heng Chang</strong>, Fei Ma, Fei Richard Yu"
+venue: "In proceedings of 39th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)"
+paper: https://hchang95.github.io/
+---
