@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Unlearning Concepts in Diffusion Model via Concept Domain Correction and Concept Preserving Gradient"
-date: 2024-05-06 00:00:00 +08:00
+date: 2025-01-01 00:10:00 +08:00
 categories: research
 authors: "Yongliang Wu, Shiji Zhou, Mingzhuo Yang, Lianzhe Wang, Wenbo Zhu, <strong>Heng Chang</strong>, Xiao Zhou, Xu Yang"
-venue: "Under Review"
+venue: "In proceedings of 39th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)"
 preprint: https://arxiv.org/abs/2405.15304
 ---
