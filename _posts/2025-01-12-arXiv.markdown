@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "One QuantLLM for ALL: Fine-tuning Quantized LLMs Once for Efficient Deployments"
-date: 2024-05-07 00:00:00 +08:00
+date: 2025-01-12 00:00:00 +08:00
 categories: research
 authors: "Ke Yi, Yuhui Xu, <strong>Heng Chang</strong>, Chen Tang, Yuan Meng, Tong Zhang, Jia Li"
 venue: "Under Review"
