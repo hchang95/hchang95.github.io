@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Heterophilic Graph Neural Networks Optimization with Causal Message-passing"
-date: 2025-01-01 00:00:00 +02:00
+date: 2025-01-01 02:00:00 +00:00
 categories: research
 authors: "Botao Wang, Jia Li, <strong>Heng Chang</strong>, Keli Zhang, Fugee Tsung"
 venue: "In proceedings of The 18th ACM International Conference on Web Search and Data Mining (<strong>WSDM</strong>)"
