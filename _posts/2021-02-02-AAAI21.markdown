@@ -5,7 +5,7 @@ date: 2021-02-02 00:00:00 +08:00
 categories: research
 authors: "Ming Jin*, <strong>Heng Chang*</strong>, Wenwu Zhu, Somayeh Sojoudi"
 venue: "In proceedings of 35th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)"
-note: "* Equal contribution" 
+note: "*: Equal contribution" 
 paper: https://ojs.aaai.org/index.php/AAAI/article/view/16976/16783
 ---
 <!-- \* Equal contribution -->
