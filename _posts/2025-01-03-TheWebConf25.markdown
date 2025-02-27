@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Separated Contrastive Learning for Matching in Cross-domain Recommendation with Curriculum Scheduling"
+date: 2025-01-02 00:00:00 +00:00
+categories: research
+authors: "<strong>Heng Chang</strong>, Liang Gu, Cheng Hu, Zhinan Zhang, Hong Zhu, Yuhui Xu, Yuan Fang, Zhen Chen"
+venue: "In proceedings of The 2025 ACM Web Conference (<strong>TheWebConf (WWW)</strong>)"
+paper: https://arxiv.org/pdf/2502.16239
+---
