@@ -5,5 +5,5 @@ date: 2025-01-01 00:10:00 +00:00
 categories: research
 authors: "Yongliang Wu, Shiji Zhou, Mingzhuo Yang, Lianzhe Wang, Wenbo Zhu, <strong>Heng Chang</strong>, Xiao Zhou, Xu Yang"
 venue: "In proceedings of 39th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)"
-preprint: https://arxiv.org/abs/2405.15304
+paper: https://arxiv.org/abs/2405.15304
 ---
