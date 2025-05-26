@@ -5,5 +5,5 @@ date: 2024-03-01 00:00:00 +08:00
 categories: research
 authors: "Tian Bian, Yifan Niu, <strong>Heng Chang</strong>, Divin Yan, Tingyang Xu, Yu Rong, Jia Li, Hong Cheng"
 venue: "In proceedings of 33rd ACM International Conference on Information and Knowledge Management (<strong>CIKM</strong>)"
-preprint: https://openreview.net/pdf?id=RSincg5RBe
+paper: https://openreview.net/pdf?id=RSincg5RBe
 ---
