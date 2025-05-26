@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Advancing Graph Foundation Models: A Data-Centric Perspective"
+date: 2025-01-09 00:00:00 +08:00
+categories: research
+authors: "Yuhan Li, Yuyao Wang, Jianheng Tang, <strong>Heng Chang</strong>, Yuxiang Ren, Jia Li"
+venue: "In proceedings of 31st SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>)"
+paper: https://hchang95.github.io/
+---
