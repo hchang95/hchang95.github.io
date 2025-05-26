@@ -4,7 +4,7 @@ title:  "Towards Lightweight Graph Neural Network Search with Curriculum Graph S
 date: 2024-01-03 00:00:00 +08:00
 categories: research
 authors: "Beini Xie*, <strong>Heng Chang*</strong>, Ziwei Zhang, Zeyang Zhang, Simin Wu, Xin Wang, Yuan Meng, Wenwu Zhu"
-venue: "In proceedings of The 2024 ACM KDD Conference (<strong>KDD</strong>)"
+venue: "In proceedings of 30th SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>)"
 note: "*: Equal contribution"
 paper: https://arxiv.org/abs/2406.16357
 ---
