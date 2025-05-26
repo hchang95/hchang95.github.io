@@ -1,9 +1,0 @@
----
-layout: post
-title:  "VReST: Enhancing Reasoning in Large Vision-Language Models through Tree Search and Self-Reward Mechanism"
-date: 2025-01-06 00:00:00 +00:00
-categories: research
-authors: "Congzhi Zhang, Jiawei Peng, Zhenglin Wang, Yilong Lai, Haowen Sun, <strong>Heng Chang</strong>, Fei Ma, Weijiang Yu"
-venue: "In proceedings of 63rd Annual Meeting of the Association for Computational Linguistics (<strong>ACL main</strong>)"
-paper: https://openreview.net/pdf?id=qInqUdwClB
----
