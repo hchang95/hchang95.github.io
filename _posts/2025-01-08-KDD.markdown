@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "On the Scalability of Temporal Relative Positional Encoding for Dynamic Link Prediction"
+date: 2025-01-08 00:00:00 +08:00
+categories: research
+authors: "Ke Cheng, Linzhi Peng, Pengyang Wang, <strong>Heng Chang</strong>, Junchen Ye, Bowen Du"
+venue: "In proceedings of 31st SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>)"
+paper: https://hchang95.github.io/
+---
