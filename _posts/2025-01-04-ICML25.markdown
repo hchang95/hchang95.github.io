@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Hgformer: Hyperbolic Graph Transformer for Recommendation"
+date: 2025-01-04 08:00:00 +00:00
+categories: research
+authors: "Xin Yang, Xingrun Li, <strong>Heng Chang</strong>, Jinze Yang, Xihong Yang, Shengyu Tao, Ningkang Chang, Maiko Shigeno, Junfeng Wang, Dawei Yin, Erxue Min"
+venue: "In proceedings of 42nd International Conference on Machine Learning (<strong>ICML</strong>)"
+paper: https://arxiv.org/pdf/2502.15693
+---
