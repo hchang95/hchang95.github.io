@@ -5,6 +5,6 @@ date: 2025-01-01 00:30:00 +00:00
 categories: research
 authors: "Xunzhi Xiang, Zonghong Dai, Haiwei Xue, Di Wang, Minglei Li, Ye Yue, Fei Ma, Weijiang Yu, <strong>Heng Chang†</strong>, Fei Richard Yu"
 venue: "In proceedings of 39th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>)"
-note: "†: Project lead"
-paper: https://hchang95.github.io/
+note: "†: Corresponding author"
+paper: https://ojs.aaai.org/index.php/AAAI/article/download/32932/35087
 ---
