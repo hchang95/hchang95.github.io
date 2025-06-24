@@ -8,6 +8,6 @@ categories: services
 * **Top Program Committee Members / Reviewers:** <a href="https://aaai.org/Conferences/AAAI-21/wp-content/uploads/2021/05/AAAI-21-Program-Committee.pdf">AAAI 2021</a>, <a href="https://neurips.cc/Conferences/2024/ProgramCommittee">NeurIPS 2024</a>, <a href="https://kdd2025.kdd.org/research-track-program-committee/">KDD 2025</a>
 * **Program Committee Member / Reviewer:**  
 **Journals:** IEEE TPAMI, IEEE TNNLS, IEEE TKDE, ACM TKDD, TMLR, Mathematics  
-**Conferences:** ACL 2023, ACL ARR (2024), AAAI (2021-2023, 2025), WWW/The WebConf (2021, 2024-2025), AISTATS 2021, ICML (2021-2025), NeurIPS (2021-2024), ICLR (2022-2025), ICME (2022-2023), IJCAI 2022, KDD (2022-2025), LoG (2022-2024), CVPR (2023-2025), ICCV 2025, ICASSP (2023-2024), SDM 2024
+**Conferences:** ACL 2023, ACL ARR (2024), AAAI (2021-2023, 2025), WWW/The WebConf (2021, 2024-2025), AISTATS 2021, ICML (2021-2025), NeurIPS (2021-2024), ICLR (2022-2025), ICME (2022-2023), IJCAI 2022, KDD (2022-2025), LoG (2022-2024), CVPR (2023-2025), ICCV 2025, ICASSP (2023-2024), SDM 2024, CIKM 2025
 * **Tutorial:**  
 <a href="https://ai.tencent.com/ailab/ml/WWW-Deep-Graph-Learning.html">Advanced Deep Graph Learning: Deeper, Faster, Robuster, and Unsupervised</a> @ WWW 2021
