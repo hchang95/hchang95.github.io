@@ -4,7 +4,7 @@ title:  "One QuantLLM for ALL: Fine-tuning Quantized LLMs Once for Efficient Dep
 date: 2025-01-05 00:00:00 +00:00
 categories: research
 authors: "Ke Yi, Yuhui Xu, <strong>Heng Chang^</strong>, Chen Tang, Yuan Meng, Tong Zhang, Jia Li"
-venue: "In proceedings of 63rd Annual Meeting of the Association for Computational Linguistics (<strong>ACL main</strong>) <font color=#F08080>Oral<\font>"
+venue: "In proceedings of 63rd Annual Meeting of the Association for Computational Linguistics (<strong>ACL main <font color=#F08080>Oral</font> </strong>)"
 note: "^: Project lead"
 paper: https://arxiv.org/abs/2405.20202
 ---
