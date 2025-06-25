@@ -4,7 +4,7 @@ title:  "G-Refer: Graph Retrieval-Augmented Large Language Model for Explainable
 date: 2025-01-02 00:00:00 +00:00
 categories: research
 authors: "Yuhan Li, Xinni Zhang, Linhao Luo, <strong>Heng Chang^</strong>, Yuxiang Ren, Irwin King, Jia Li"
-venue: "In proceedings of The 2025 ACM Web Conference (<strong>TheWebConf (WWW)</strong>)"
+venue: "In proceedings of The 2025 ACM Web Conference (<strong>TheWebConf (WWW)</strong>), (<strong><font color=#F08080>Oral</font></strong>)"
 note: "^: Project lead"
 paper: https://arxiv.org/pdf/2502.12586
 ---
