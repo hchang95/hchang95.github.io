@@ -4,7 +4,7 @@ title:  "Deconstructing The Ethics of Large Language Models from Long-standing I
 date: 2025-05-11 00:00:00 +00:00
 categories: research
 authors: "Chengyuan Deng*, Yiqun Duan*, Xin Jin*, <strong>Heng Chang*</strong>, et al."
-venue: "Under Review"
+venue: "AI and Ethics"
 note: "*: Equal contribution"
 preprint: https://arxiv.org/abs/2406.05392
 ---
