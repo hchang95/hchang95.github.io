@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrained Reinforcement Learning"
+date: 2025-09-01 00:00:00 +00:00
+categories: research
+authors: "Chuanyue Yu, Kuo Zhao, Yuhan Li, <strong>Heng Chang^</strong>, Mingjian Feng, Xiangzhe Jiang, Yufei Sun, Jia Li, Yuzhi Zhang, Jianxin Li, Ziwei Zhang."
+venue: "In Submission"
+note: "^: Project lead"
+preprint: https://arxiv.org/abs/2507.23581
+---
