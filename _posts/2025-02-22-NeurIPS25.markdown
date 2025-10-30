@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Efficient Utility-Preserving Machine Unlearning with Implicit Gradient Surgery"
+date: 2025-02-22 00:00:00 +08:00
+categories: research
+authors: "Shiji Zhou, Tianbai Yu, Zhi Zhang, <strong>Heng Chang</strong>, Xiao Zhou, Dong Wu, Han Zhao"
+venue: "In proceedings of 39th Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>)"
+paper: https://arxiv.org/abs/2510.22124
+code: https://github.com/anseryuer/EUPMU-Efficient-Utility-Preserving-Machine-Unlearning
+---
+
