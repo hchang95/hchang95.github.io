@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "How do Language Models Reshape Entity Alignment? A Survey of LM-Driven EA Methods: Advances, Benchmarks, and Future"
+date: 2025-03-03 00:00:00 +08:00
+categories: research
+authors: "Zerui Chen, Huiming Fan, Qianyu Wang, Tao He, Ming Liu, <strong>Heng Chang</strong>, Weijiang Yu, Ze Li, Bing Qin"
+venue: "In proceedings of The 2025 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>)"
+paper: https://aclanthology.org/2025.emnlp-main.1184/
+---
