@@ -4,7 +4,7 @@ title:  "RPE4Rec: Enhancing Dynamic Node Retrieval with Efficient Relative Posit
 date: 2025-03-01 02:00:00 +00:00
 categories: research
 authors: "Ke Cheng, <strong>Heng Chang†</strong>, Pengyang Wang, Liang Gu, Jiandong Ding, Yi Cao, Junchen Ye† and Bowen Du"
-venue: "In proceedings of The 19th ACM International Conference on Web Search and Data Mining (<strong>WSDM</strong>)"
+venue: "In proceedings of The 19th ACM International Conference on Web Search and Data Mining (<strong>WSDM</strong>), <strong><font color=#F08080>Oral</font></strong>"
 note: "†: Corresponding author"
 paper: https://hchang95.github.io/
 ---
