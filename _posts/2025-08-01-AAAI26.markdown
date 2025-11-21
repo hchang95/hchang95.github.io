@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "UNO! UNified Offline Training Paradigm for Learning Path Recommendation"
+date: 2025-08-01 00:10:00 +00:00
+categories: research
+authors: "Linzhi Peng, Wentao Zhu, Ke Cheng, <strong>Heng Chang</strong>, Junchen Ye, Bowen Du, Weifeng Lv"
+venue: "In proceedings of 40th AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), <strong><font color=#F08080>Oral</font></strong>"
+paper: https://hchang95.github.io/
+---
