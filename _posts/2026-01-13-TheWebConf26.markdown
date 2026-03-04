@@ -6,5 +6,5 @@ categories: research
 authors: "Chuanyue Yu, Kuo Zhao, Yuhan Li, <strong>Heng Chang^</strong>, Mingjian Feng, Xiangzhe Jiang, Yufei Sun, Jia Li, Yuzhi Zhang, Jianxin Li, Ziwei Zhang"
 venue: "In proceedings of The 2026 ACM Web Conference (<strong>TheWebConf (WWW)</strong>)"
 note: "^: Project lead"
-preprint: https://arxiv.org/abs/2507.23581
+paper: https://arxiv.org/abs/2507.23581
 ---
