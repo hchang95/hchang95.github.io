@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Context Compression via Explicit Information Transmission"
+date: 2026-03-01 03:00:00 +00:00
+categories: research
+authors: "Jiangnan Ye, Hanqi Yan, Zhenyi Shen,  <strong>Heng Chang</strong>, Ye Mao, Yulan He"
+venue: "Under Review"
+preprint: https://arxiv.org/pdf/2602.03784
+---
