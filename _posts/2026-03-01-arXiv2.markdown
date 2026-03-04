@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "TodoEvolve: Learning to Architect Agent Planning Systems"
+date: 2026-03-01 02:00:00 +00:00
+categories: research
+authors: "Jiaxi Liu, Yanzuo Jiang, Guibin Zhang, Zihan Zhang, <strong>Heng Chang</strong>, Zhenfei Yin, Qibing Ren, Junchi Yan"
+venue: "Under Review"
+preprint: https://arxiv.org/pdf/2602.07839
+---
