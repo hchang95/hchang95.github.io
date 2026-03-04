@@ -6,5 +6,5 @@ categories: research
 authors: "Zerui Chen*, <strong>Heng Chang*</strong>, Tianying Liu, Chuantian Zhou, Yi Cao, Jiandong Ding, Ming Liu, Bing Qin"
 venue: "In proceedings of The 2026 ACM Web Conference (<strong>TheWebConf (WWW)</strong>)"
 note: "*: Equal contribution"
-preprint: https://arxiv.org/abs/2603.00980
+paper: https://arxiv.org/abs/2603.00980
 ---
