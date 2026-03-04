@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Unlocking the Potentials of Retrieval-Augmented Generation for Diffusion Language Models"
+date: 2026-03-01 00:00:00 +00:00
+categories: research
+authors: "Chuanyue Yu, Jiahui Wang, Yuhan Li, <strong>Heng Chang^</strong>, Ge Lan, Qingyun Sun, Jia Li, Jianxin Li, Ziwei Zhang"
+venue: "Under Review"
+note: "^: Project lead"
+preprint: https://arxiv.org/pdf/2601.11342
+---
