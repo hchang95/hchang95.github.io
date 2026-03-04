@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Act-With-Think: Chunk Auto-Regressive Modeling for Generative Recommendation"
+date: 2026-03-02 02:00:00 +00:00
+categories: research
+authors: "Yifan Wang, Weinan Gan, Longtao Xiao, Jieming Zhu, <strong>Heng Chang</strong>,, Haozhao Wang, Rui Zhang, Zhenhua Dong, Ruiming Tang, Ruixuan Li"
+venue: "Under Review"
+preprint: https://arxiv.org/pdf/2506.23643
+---
