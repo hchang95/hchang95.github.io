@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Evoflow: Evolving diverse agentic workflows on the fly"
+title:  "Evoflow: Evolving Diverse Agentic Workflows on the Fly"
 date: 2026-03-02 00:00:00 +00:00
 categories: research
 authors: "Guibin Zhang, Kaijie Chen, Guancheng Wan, <strong>Heng Chang</strong>, Hong Cheng, Kun Wang, Shuyue Hu, Lei Bai"
