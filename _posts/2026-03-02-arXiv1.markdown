@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "FAIR: Focused Attention Is All You Need for Generative Recommendation"
+date: 2026-03-02 01:00:00 +00:00
+categories: research
+authors: "Longtao Xiao, Haolin Zhang, Guohao Cai, Jieming Zhu, Yifan Wang, <strong>Heng Chang</strong>, Zhenhua Dong, Xiu Li, Ruixuan Li"
+venue: "Under Review"
+preprint: https://arxiv.org/pdf/2512.11254
+---
