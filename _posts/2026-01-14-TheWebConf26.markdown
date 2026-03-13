@@ -4,7 +4,7 @@ title:  "Beyond the Flat Sequence: Hierarchical and Preference-Aware Generative 
 date: 2026-01-14 00:00:00 +00:00
 categories: research
 authors: "Zerui Chen*, <strong>Heng Chang*</strong>, Tianying Liu, Chuantian Zhou, Yi Cao, Jiandong Ding, Ming Liu, Bing Qin"
-venue: "In proceedings of The 2026 ACM Web Conference (<strong>TheWebConf (WWW)</strong>)"
+venue: "In proceedings of The 2026 ACM Web Conference (<strong>TheWebConf (WWW)</strong>), <strong><font color=#F08080>Oral</font></strong>"
 note: "*: Equal contribution"
 paper: https://arxiv.org/abs/2603.00980
 ---
