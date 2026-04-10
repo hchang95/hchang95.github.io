@@ -4,7 +4,7 @@ title:  "GraphRAG-R1: Graph Retrieval-Augmented Generation with Process-Constrai
 date: 2026-01-13 00:00:00 +00:00
 categories: research
 authors: "Chuanyue Yu, Kuo Zhao, Yuhan Li, <strong>Heng Chang^</strong>, Mingjian Feng, Xiangzhe Jiang, Yufei Sun, Jia Li, Yuzhi Zhang, Jianxin Li, Ziwei Zhang"
-venue: "In proceedings of The 2026 ACM Web Conference (<strong>TheWebConf (WWW)</strong>)"
+venue: "In proceedings of The 2026 ACM Web Conference (<strong>TheWebConf (WWW)</strong>), <strong><font color=#F08080>Oral</font></strong>"
 note: "^: Project lead"
 paper: https://arxiv.org/abs/2507.23581
 ---
