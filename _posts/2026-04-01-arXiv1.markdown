@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "LoopRPT: Reinforcement Pre-Training for Looped Language Models"
+date: 2026-04-01 01:00:00 +00:00
+categories: research
+authors: "Guo Tang*, Shixin Jiang*, <strong>Heng Chang*^</strong>, Nuo Chen, Yuhan Li, Huiming Fan, Jia Li, Ming Liu, Bing Qin"
+venue: "Under Review"
+note: "^: Project lead, *: Equal contribution"
+preprint: https://arxiv.org/pdf/2603.19714
+---
