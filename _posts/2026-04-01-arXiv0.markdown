@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "All-Mem: Agentic Lifelong Memory via Dynamic Topology Evolution"
+date: 2026-04-01 00:00:00 +00:00
+categories: research
+authors: "Can Lv, <strong>Heng Chang^</strong>, Yuchen Guo, Shengyu Tao, Shiji Zhou"
+venue: "Under Review"
+note: "^: Project lead"
+preprint: https://arxiv.org/pdf/2603.19595
+---
