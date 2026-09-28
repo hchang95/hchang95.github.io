@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Mitigating False Credit Propagation: Probabilistic Graphical Reward Aggregation for Rubric-Based Reinforcement Learning"
+date: 2026-01-19 00:00:00 +00:00
+categories: research
+authors: "Can Lv, Mingju Chen, <strong>Heng Chang^</strong>, Shiji Zhou"
+venue: "In proceedings of The 2026 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>), <strong><font color=#F08080>Oral</font></strong>"
+note: "^: Project lead"
+paper: https://arxiv.org/pdf/2606.03361
+---
