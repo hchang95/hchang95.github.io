@@ -4,7 +4,7 @@ title:  "HarnessForge: Joint Harness and Policy Evolution for Adaptive Agent Sys
 date: 2026-01-18 00:00:00 +00:00
 categories: research
 authors: "Mingju Chen, Can Lv, Guibin Zhang, <strong>Heng Chang^</strong>, Shiji Zhou"
-venue: ""In proceedings of The 2026 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>)", <strong><font color=#F08080>Oral</font></strong>"
+venue: "In proceedings of The 2026 Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>)", <strong><font color=#F08080>Oral</font></strong>"
 note: "^: Project lead"
-paper: https://arxiv.org/pdf/2502.12586
+paper: https://arxiv.org/pdf/2606.01779
 ---
