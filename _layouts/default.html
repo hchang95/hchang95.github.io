@@ -36,7 +36,7 @@
                 My current research focuses on LLM post-training, LLM Agents, and Generative Recommendation and Retrieval. I am also broadly interested in representation learning on relation/sequence/graph structured data, knowledge-augmented Generative AI, and trustworthy AI.
               </p> -->
               <p style="text-align:center">
-                <a href="changh17@tsinghua.org.cn">Email</a> &nbsp;/&nbsp;
+                <a href="mailto:changh17@tsinghua.org.cn">Email</a> &nbsp;/&nbsp;
                 <a href="https://github.com/SwiftieH">GitHub</a> &nbsp;/&nbsp;
                 <a href="https://scholar.google.com/citations?user=e9NeskoAAAAJ&hl&view_op=list_works&sortby=pubdate">Google Scholar</a> &nbsp;/&nbsp;
                 <a href="https://www.linkedin.com/in/heng-chang-61a67898/">LinkedIn</a>
@@ -87,7 +87,7 @@
           </tr>
         </table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          {% assign featured_paths = '_posts/2026-01-18-EMNLP26.markdown|_posts/2026-01-17-NeurIPS26.markdown|_posts/2026-01-14-TheWebConf26.markdown|_posts/2026-01-13-TheWebConf26.markdown|_posts/2020-12-07-NeurIPS20.markdown' | split: '|' %}
+          {% assign featured_paths = '_posts/2026-01-18-EMNLP26.markdown|_posts/2026-01-17-NeurIPS26.markdown|_posts/2026-01-14-TheWebConf26.markdown|_posts/2026-01-13-TheWebConf26.markdown|_posts/2021-09-29-NeurIPS21.markdown' | split: '|' %}
           {% for post in site.posts %}
           {% if post.categories contains 'research' and featured_paths contains post.path %}
           <tr>
@@ -127,7 +127,7 @@
               <a href="{{post.webpage}}">webpage</a> /
               {% endif %}
               {% if post.huggingface %}
-              <a href="{{post.webpage}}">huggingface</a> /
+              <a href="{{post.huggingface}}">huggingface</a> /
               {% endif %}
               <p></p>
               {{ post.excerpt }}
@@ -140,7 +140,7 @@
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr>
             <td style="padding:1%;width:100%;vertical-align:middle">
-              <h2 style="color:#DE7575;"> <b>All Publications</b></h2>
+              <h2 style="color:#DE7575;"> <b>Publications</b></h2> &nbsp; (<a href="https://scholar.google.com/citations?user=e9NeskoAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Full list on Google Scholar</a>)
             </td>
           </tr>
         </table>
@@ -195,7 +195,7 @@
               <a href="{{post.webpage}}">webpage</a> /
               {% endif %}
               {% if post.huggingface %}
-              <a href="{{post.webpage}}">huggingface</a> /
+              <a href="{{post.huggingface}}">huggingface</a> /
               {% endif %}
               <p></p>
               {{ post.excerpt }}
