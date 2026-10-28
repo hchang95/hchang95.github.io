@@ -94,8 +94,21 @@
           {% if post.categories contains 'research' and featured_paths contains post.path %}
           <tr>
             <td style="padding:1%;width:75%;vertical-align:middle">
-              <h3>{{post.title}}</h3>
-              <br>
+              <details class="paper-summary">
+                <summary style="cursor:pointer;"><h3>{{post.title}}</h3></summary>
+                {% case post.path %}
+                {% when '_posts/2026-01-18-EMNLP26.markdown' %}
+                <p style="margin:8px 0;">Co-evolves agent harnesses and reasoning policies to adapt the full agent system to different tasks.</p>
+                {% when '_posts/2026-01-17-NeurIPS26.markdown' %}
+                <p style="margin:8px 0;">Uses reinforcement learning during pre-training to improve latent reasoning in looped language models while reducing the number of iterations needed.</p>
+                {% when '_posts/2026-01-14-TheWebConf26.markdown' %}
+                <p style="margin:8px 0;">Models session hierarchy and user preferences with sparse attention to make generative recommendation more accurate and efficient.</p>
+                {% when '_posts/2026-01-13-TheWebConf26.markdown' %}
+                <p style="margin:8px 0;">Trains language models to plan multi-hop reasoning and retrieve graph and text evidence through reinforcement learning with process constraints.</p>
+                {% when '_posts/2021-09-29-NeurIPS21.markdown' %}
+                <p style="margin:8px 0;">Identifies when low-frequency graph components resist structural attacks and transfers that robustness to graph neural networks through co-training.</p>
+                {% endcase %}
+              </details>
               {{post.authors}}
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
@@ -133,18 +146,6 @@
               {% if post.huggingface %}
               <a href="{{post.huggingface}}">huggingface</a> /
               {% endif %}
-              {% case post.path %}
-              {% when '_posts/2026-01-18-EMNLP26.markdown' %}
-              <p style="margin:8px 0;">Co-evolves agent harnesses and reasoning policies to adapt the full agent system to different tasks.</p>
-              {% when '_posts/2026-01-17-NeurIPS26.markdown' %}
-              <p style="margin:8px 0;">Uses reinforcement learning during pre-training to improve latent reasoning in looped language models while reducing the number of iterations needed.</p>
-              {% when '_posts/2026-01-14-TheWebConf26.markdown' %}
-              <p style="margin:8px 0;">Models session hierarchy and user preferences with sparse attention to make generative recommendation more accurate and efficient.</p>
-              {% when '_posts/2026-01-13-TheWebConf26.markdown' %}
-              <p style="margin:8px 0;">Trains language models to plan multi-hop reasoning and retrieve graph and text evidence through reinforcement learning with process constraints.</p>
-              {% when '_posts/2021-09-29-NeurIPS21.markdown' %}
-              <p style="margin:8px 0;">Identifies when low-frequency graph components resist structural attacks and transfers that robustness to graph neural networks through co-training.</p>
-              {% endcase %}
               {{ post.excerpt }}
             </td>
           </tr>
@@ -156,6 +157,7 @@
           <tr>
             <td style="padding:1%;width:100%;vertical-align:middle">
               <h2 style="color:#DE7575;"> <b>Publications</b></h2> &nbsp; (<a href="https://scholar.google.com/citations?user=e9NeskoAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Full list on Google Scholar</a>)
+              <p style="margin:8px 0 0;font-size:14px;">^: Project lead; *: Equal contribution; †: Corresponding author.</p>
             </td>
           </tr>
         </table>
