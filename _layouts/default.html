@@ -89,7 +89,7 @@
           </tr>
         </table>
         <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
-          {% assign featured_paths = '_posts/2026-01-18-EMNLP26.markdown|_posts/2026-01-17-NeurIPS26.markdown|_posts/2026-01-14-TheWebConf26.markdown|_posts/2026-01-13-TheWebConf26.markdown|_posts/2021-09-29-NeurIPS21.markdown' | split: '|' %}
+          {% assign featured_paths = '_posts/2026-10-26-UnityBench.markdown|_posts/2026-01-18-EMNLP26.markdown|_posts/2026-01-17-NeurIPS26.markdown|_posts/2026-01-14-TheWebConf26.markdown|_posts/2026-01-13-TheWebConf26.markdown|_posts/2021-09-29-NeurIPS21.markdown' | split: '|' %}
           {% for post in site.posts %}
           {% if post.categories contains 'research' and featured_paths contains post.path %}
           <tr>
@@ -97,6 +97,8 @@
               <details class="paper-summary">
                 <summary style="cursor:pointer;"><h3>{{post.title}}</h3></summary>
                 {% case post.path %}
+                {% when '_posts/2026-10-26-UnityBench.markdown' %}
+                <p style="margin:8px 0;">Evaluates LLM agents on 77 Unity 3D game development tasks using 1,178 deterministic milestone tests of scene structure, component configuration, and runtime behavior.</p>
                 {% when '_posts/2026-01-18-EMNLP26.markdown' %}
                 <p style="margin:8px 0;">Co-evolves agent harnesses and reasoning policies to adapt the full agent system to different tasks.</p>
                 {% when '_posts/2026-01-17-NeurIPS26.markdown' %}
